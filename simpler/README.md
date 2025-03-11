@@ -4,7 +4,7 @@ A system that transforms health recommendations into daily, weekly, monthly, or 
 
 ## Overview
 
-The Resource Allocator is a system that transforms the recommendations from Elyx's HealthSpan AI into a personalized schedule of health activities. It coordinates with resources such as equipment, specialists, and allied health professionals to adapt the plan based on their availability and the client's schedule.
+The Resource Allocator is a system that transforms the recommendations into a personalized schedule of health activities. It coordinates with resources such as equipment, specialists, and allied health professionals to adapt the plan based on their availability and the client's schedule.
 
 ## System Components
 
@@ -28,6 +28,7 @@ The Resource Allocator is a system that transforms the recommendations from Elyx
 ```
 git clone https://github.com/yourusername/healthspan-resource-allocator.git
 cd healthspan-resource-allocator
+cd simple
 ```
 
 2. Install requirements:
@@ -57,25 +58,7 @@ The outputs will be saved to:
 
 Open `output/personalized_schedule.html` in a web browser to view the calendar.
 
-## Project Structure
 
-```
-healthspan_resource_allocator/
-│
-├── data/                      # Directory for generated data files
-│
-├── output/                    # Directory for output files
-│
-├── src/                       # Source code directory
-│   ├── __init__.py
-│   ├── data_generator.py      # Data generation module
-│   ├── resource_allocator.py  # Resource allocation module
-│   ├── utils.py               # Utility functions
-│
-├── README.md                  # Project documentation
-├── main.py                    # Main entry point script
-└── requirements.txt           # Project dependencies
-```
 
 ## Implementation Notes
 
@@ -87,14 +70,8 @@ healthspan_resource_allocator/
 
 ## GenAI Prompts Used
 
-This project was developed with the assistance of generative AI. The following prompts were used:
+This project was developed with the assistance of generative AI. The provided file (pdf) and the (QnA) were sufficient to generate the entire project.
+Claude 3.7 Sonnet was used for the code generation.
 
-1. "Design a data model for a health activity scheduler that includes activities, frequency, facilitators, and availability constraints."
-2. "Generate realistic health activity data with 100 activities of different types with priority, frequency, and details."
-3. "Create a resource allocation algorithm that schedules activities based on priority and availability constraints."
-4. "Design a readable calendar output format for a personalized health schedule."
-5. "Optimize Python code for scheduling activities with multiple availability constraints."
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
