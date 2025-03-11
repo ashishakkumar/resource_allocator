@@ -1,0 +1,1797 @@
+[
+  {
+    "name": "High-fiber meal",
+    "type": "Food consumption",
+    "frequency": "Twice a week",
+    "details": "Session of 25 minutes. Consume 4 serving(s)",
+    "facilitator": "Dietitian",
+    "location": "Gym",
+    "remote_capable": false,
+    "prep_needed": "Purchase supplements",
+    "backup_activities": [
+      "Intermittent fasting"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative food",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 25,
+    "priority": 1
+  },
+  {
+    "name": "Ketogenic meal",
+    "type": "Food consumption",
+    "frequency": "Twice daily",
+    "details": "Session of 27 minutes. Consume 4 capsule(s)",
+    "facilitator": "Nutritionist",
+    "location": "Health Food Store",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Calorie-restricted meal",
+      "Protein shake consumption",
+      "Anti-inflammatory diet meal"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative food",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 27,
+    "priority": 2
+  },
+  {
+    "name": "Plant-based meal",
+    "type": "Food consumption",
+    "frequency": "Three times daily",
+    "details": "Session of 21 minutes. Consume 4 oz",
+    "facilitator": "Dietitian",
+    "location": "Home",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Vitamin D",
+      "Probiotics"
+    ],
+    "adjustments_if_skipped": "Double next dose",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 21,
+    "priority": 3
+  },
+  {
+    "name": "Tai Chi",
+    "type": "Fitness routine / exercise",
+    "frequency": "Every 6 months",
+    "details": "Session of 46 minutes. Maintain HR between 121-176 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Forest Trail",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Core strengthening"
+    ],
+    "adjustments_if_skipped": "Increase intensity in next session",
+    "metrics": "Heart rate, duration, repetitions",
+    "duration_minutes": 46,
+    "priority": 4
+  },
+  {
+    "name": "Sleep aid",
+    "type": "Medication consumption",
+    "frequency": "Monthly",
+    "details": "Session of 7 minutes. Take 2 tablet(s)",
+    "facilitator": "Medical Doctor",
+    "location": "Tennis Court",
+    "remote_capable": true,
+    "prep_needed": "Refill prescription",
+    "backup_activities": [
+      "Thyroid medication"
+    ],
+    "adjustments_if_skipped": "Adjust timing of other medications",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 7,
+    "priority": 5
+  },
+  {
+    "name": "Bodyweight exercises",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice a week",
+    "details": "Session of 42 minutes. Maintain HR between 144-170 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Swimming Pool",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Swimming"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative exercise",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 42,
+    "priority": 6
+  },
+  {
+    "name": "Antihistamine",
+    "type": "Medication consumption",
+    "frequency": "Yearly",
+    "details": "Session of 7 minutes. Take 2 tablet(s)",
+    "facilitator": "Medical Doctor",
+    "location": "Health Food Store",
+    "remote_capable": false,
+    "prep_needed": "Check medication interactions",
+    "backup_activities": [
+      "Calcium supplement",
+      "Pain reliever"
+    ],
+    "adjustments_if_skipped": "Adjust timing of other medications",
+    "metrics": "Adherence, effectiveness",
+    "duration_minutes": 7,
+    "priority": 7
+  },
+  {
+    "name": "Strength training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Daily",
+    "details": "Session of 32 minutes. Maintain HR between 150-173 bpm",
+    "facilitator": "Yoga Instructor",
+    "location": "Office",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Eye exercises",
+      "Walking",
+      "Core strengthening"
+    ],
+    "adjustments_if_skipped": "Extend next session by 15 minutes",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 32,
+    "priority": 8
+  },
+  {
+    "name": "Pilates",
+    "type": "Fitness routine / exercise",
+    "frequency": "Every other day",
+    "details": "Session of 46 minutes. Maintain HR between 148-160 bpm",
+    "facilitator": "Self-administered",
+    "location": "Track Field",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Running"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative exercise",
+    "metrics": "Heart rate, duration, sets",
+    "duration_minutes": 46,
+    "priority": 9
+  },
+  {
+    "name": "Calcium supplement",
+    "type": "Medication consumption",
+    "frequency": "Yearly",
+    "details": "Session of 9 minutes. Take 2 tablet(s)",
+    "facilitator": "Nurse",
+    "location": "Physical Therapy Clinic",
+    "remote_capable": false,
+    "prep_needed": "Check medication interactions",
+    "backup_activities": [
+      "Pain reliever"
+    ],
+    "adjustments_if_skipped": "Take as soon as remembered if same day",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 9,
+    "priority": 10
+  },
+  {
+    "name": "Vitamin D",
+    "type": "Food consumption",
+    "frequency": "Twice a week",
+    "details": "Session of 30 minutes. Consume 3 tablespoon(s)",
+    "facilitator": "Nutritionist",
+    "location": "Physical Therapy Clinic",
+    "remote_capable": false,
+    "prep_needed": "Prepare meal",
+    "backup_activities": [
+      "Anti-inflammatory diet meal"
+    ],
+    "adjustments_if_skipped": "Adjust timing of next meal",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 30,
+    "priority": 11
+  },
+  {
+    "name": "Infrared therapy",
+    "type": "Therapy",
+    "frequency": "Every 6 months",
+    "details": "Session of 70 minutes",
+    "facilitator": "Mental Health Counselor",
+    "location": "Physical Therapy Clinic",
+    "remote_capable": false,
+    "prep_needed": "Hydrate before session",
+    "backup_activities": [
+      "Deep breathing exercises"
+    ],
+    "adjustments_if_skipped": "Extend next session",
+    "metrics": "Effectiveness, comfort level",
+    "duration_minutes": 70,
+    "priority": 12
+  },
+  {
+    "name": "Cholesterol medication",
+    "type": "Medication consumption",
+    "frequency": "Every 3 months",
+    "details": "Session of 9 minutes. Take 1 tablet(s)",
+    "facilitator": "Self-administered",
+    "location": "Hospital",
+    "remote_capable": true,
+    "prep_needed": "Refill prescription",
+    "backup_activities": [
+      "Sleep aid"
+    ],
+    "adjustments_if_skipped": "Consult doctor if consecutive doses missed",
+    "metrics": "Adherence, blood markers",
+    "duration_minutes": 9,
+    "priority": 13
+  },
+  {
+    "name": "Omega-3 supplement",
+    "type": "Food consumption",
+    "frequency": "Weekly",
+    "details": "Session of 25 minutes. Consume 1 oz",
+    "facilitator": "Dietitian",
+    "location": "Specialized Facility",
+    "remote_capable": false,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Vitamin D",
+      "Mediterranean diet meal",
+      "Calorie-restricted meal"
+    ],
+    "adjustments_if_skipped": "Add extra nutrients in next meal",
+    "metrics": "Adherence, energy levels",
+    "duration_minutes": 25,
+    "priority": 14
+  },
+  {
+    "name": "Calorie-restricted meal",
+    "type": "Food consumption",
+    "frequency": "Weekly",
+    "details": "Session of 28 minutes. Consume 2 oz",
+    "facilitator": "Nutritionist",
+    "location": "Beach",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Anti-inflammatory diet meal",
+      "Plant-based meal"
+    ],
+    "adjustments_if_skipped": "Adjust timing of next meal",
+    "metrics": "Adherence, satiety",
+    "duration_minutes": 28,
+    "priority": 15
+  },
+  {
+    "name": "Ice bath",
+    "type": "Therapy",
+    "frequency": "Yearly",
+    "details": "Session of 88 minutes",
+    "facilitator": "Mental Health Counselor",
+    "location": "Tennis Court",
+    "remote_capable": true,
+    "prep_needed": "Hydrate before session",
+    "backup_activities": [
+      "Heat therapy"
+    ],
+    "adjustments_if_skipped": "Do home exercises instead",
+    "metrics": "Effectiveness, relaxation",
+    "duration_minutes": 88,
+    "priority": 16
+  },
+  {
+    "name": "Ophthalmologist checkup",
+    "type": "Consultation",
+    "frequency": "Yearly",
+    "details": "Session of 49 minutes",
+    "facilitator": "Noah Martin (Massage Therapist)",
+    "location": "Wellness Center",
+    "remote_capable": true,
+    "prep_needed": "Fast if required for tests",
+    "backup_activities": [
+      "Dermatologist consultation",
+      "Blood test analysis"
+    ],
+    "adjustments_if_skipped": "Request summary of missed information",
+    "metrics": "Action items identified, insights gained",
+    "duration_minutes": 49,
+    "priority": 17
+  },
+  {
+    "name": "Light therapy",
+    "type": "Therapy",
+    "frequency": "Every 6 months",
+    "details": "Session of 34 minutes",
+    "facilitator": "Naturopath",
+    "location": "Tennis Court",
+    "remote_capable": true,
+    "prep_needed": "Book appointment",
+    "backup_activities": [
+      "Sauna session"
+    ],
+    "adjustments_if_skipped": "Do home exercises instead",
+    "metrics": "Effectiveness, relaxation",
+    "duration_minutes": 34,
+    "priority": 18
+  },
+  {
+    "name": "Balance training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice daily",
+    "details": "Session of 59 minutes. Maintain HR between 114-160 bpm",
+    "facilitator": "Exercise Physiologist",
+    "location": "Mountain Trail",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, prepare equipment",
+    "backup_activities": [
+      "Tai Chi",
+      "Cycling",
+      "Resistance band exercises"
+    ],
+    "adjustments_if_skipped": "Increase intensity in next session",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 59,
+    "priority": 19
+  },
+  {
+    "name": "Thyroid medication",
+    "type": "Medication consumption",
+    "frequency": "Monthly",
+    "details": "Session of 9 minutes. Take 2 pill(s)",
+    "facilitator": "Medical Doctor",
+    "location": "Tennis Court",
+    "remote_capable": true,
+    "prep_needed": "Take with food if needed",
+    "backup_activities": [
+      "Magnesium supplement",
+      "Calcium supplement",
+      "Antihistamine"
+    ],
+    "adjustments_if_skipped": "Adjust timing of other medications",
+    "metrics": "Adherence, side effects",
+    "duration_minutes": 9,
+    "priority": 20
+  },
+  {
+    "name": "Cryotherapy",
+    "type": "Therapy",
+    "frequency": "Monthly",
+    "details": "Session of 80 minutes",
+    "facilitator": "Physiotherapist",
+    "location": "Yoga Studio",
+    "remote_capable": true,
+    "prep_needed": "Prepare comfortable clothes",
+    "backup_activities": [
+      "Physical therapy"
+    ],
+    "adjustments_if_skipped": "Reschedule within same week",
+    "metrics": "Effectiveness, comfort level",
+    "duration_minutes": 80,
+    "priority": 21
+  },
+  {
+    "name": "Light therapy",
+    "type": "Therapy",
+    "frequency": "Every 6 months",
+    "details": "Session of 78 minutes",
+    "facilitator": "Physiotherapist",
+    "location": "Gym",
+    "remote_capable": false,
+    "prep_needed": "Hydrate before session",
+    "backup_activities": [
+      "Sauna session",
+      "Deep breathing exercises"
+    ],
+    "adjustments_if_skipped": "Extend next session",
+    "metrics": "Effectiveness, comfort level",
+    "duration_minutes": 78,
+    "priority": 22
+  },
+  {
+    "name": "Flexibility training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Every other day",
+    "details": "Session of 44 minutes. Maintain HR between 143-174 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Medical Clinic",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Pilates"
+    ],
+    "adjustments_if_skipped": "Increase intensity in next session",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 44,
+    "priority": 23
+  },
+  {
+    "name": "Core strengthening",
+    "type": "Fitness routine / exercise",
+    "frequency": "Three times a week",
+    "details": "Session of 38 minutes. Maintain HR between 139-180 bpm",
+    "facilitator": "Yoga Instructor",
+    "location": "Specialized Facility",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Tai Chi",
+      "Yoga",
+      "Eye exercises"
+    ],
+    "adjustments_if_skipped": "Add extra session later in week",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 38,
+    "priority": 24
+  },
+  {
+    "name": "Running",
+    "type": "Fitness routine / exercise",
+    "frequency": "Daily",
+    "details": "Session of 44 minutes. Maintain HR between 134-168 bpm",
+    "facilitator": "Self-administered",
+    "location": "Physical Therapy Clinic",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, fill water bottle",
+    "backup_activities": [
+      "Cardio workout",
+      "Eye exercises"
+    ],
+    "adjustments_if_skipped": "Add extra session later in week",
+    "metrics": "Heart rate, duration, repetitions",
+    "duration_minutes": 44,
+    "priority": 25
+  },
+  {
+    "name": "Sleep aid",
+    "type": "Medication consumption",
+    "frequency": "Twice daily",
+    "details": "Session of 9 minutes. Take 1 tablet(s)",
+    "facilitator": "Medical Doctor",
+    "location": "Track Field",
+    "remote_capable": true,
+    "prep_needed": "Take with food if needed",
+    "backup_activities": [
+      "Thyroid medication",
+      "Calcium supplement",
+      "Vitamin B complex"
+    ],
+    "adjustments_if_skipped": "Adjust timing of other medications",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 9,
+    "priority": 26
+  },
+  {
+    "name": "Dermatologist consultation",
+    "type": "Consultation",
+    "frequency": "Biweekly",
+    "details": "Session of 50 minutes",
+    "facilitator": "Dr. Smith (Cardiologist)",
+    "location": "Community Center",
+    "remote_capable": false,
+    "prep_needed": "Gather medical records",
+    "backup_activities": [
+      "Personal trainer session",
+      "Ophthalmologist checkup",
+      "Stress management counseling"
+    ],
+    "adjustments_if_skipped": "Reschedule ASAP",
+    "metrics": "Action items identified, insights gained",
+    "duration_minutes": 50,
+    "priority": 27
+  },
+  {
+    "name": "Cardio workout",
+    "type": "Fitness routine / exercise",
+    "frequency": "Weekly",
+    "details": "Session of 43 minutes. Maintain HR between 139-161 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Office",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Walking"
+    ],
+    "adjustments_if_skipped": "Extend next session by 15 minutes",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 43,
+    "priority": 28
+  },
+  {
+    "name": "Massage therapy",
+    "type": "Therapy",
+    "frequency": "Biweekly",
+    "details": "Session of 73 minutes",
+    "facilitator": "Physiotherapist",
+    "location": "Specialized Facility",
+    "remote_capable": false,
+    "prep_needed": "Complete pre-session questionnaire",
+    "backup_activities": [
+      "Cognitive behavioral therapy",
+      "Float tank session",
+      "Acupuncture"
+    ],
+    "adjustments_if_skipped": "Do home exercises instead",
+    "metrics": "Effectiveness, comfort level",
+    "duration_minutes": 73,
+    "priority": 29
+  },
+  {
+    "name": "Iron supplement",
+    "type": "Medication consumption",
+    "frequency": "Every other day",
+    "details": "Session of 10 minutes. Take 1 tablet(s)",
+    "facilitator": "Self-administered",
+    "location": "Track Field",
+    "remote_capable": false,
+    "prep_needed": "Refill prescription",
+    "backup_activities": [
+      "Sleep aid",
+      "Melatonin"
+    ],
+    "adjustments_if_skipped": "Adjust timing of other medications",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 10,
+    "priority": 30
+  },
+  {
+    "name": "Pain reliever",
+    "type": "Medication consumption",
+    "frequency": "Weekly",
+    "details": "Session of 8 minutes. Take 2 capsule(s)",
+    "facilitator": "Nurse",
+    "location": "Yoga Studio",
+    "remote_capable": true,
+    "prep_needed": "Check medication interactions",
+    "backup_activities": [
+      "Sleep aid"
+    ],
+    "adjustments_if_skipped": "Consult doctor if consecutive doses missed",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 8,
+    "priority": 31
+  },
+  {
+    "name": "Omega-3 supplement",
+    "type": "Food consumption",
+    "frequency": "Twice a week",
+    "details": "Session of 24 minutes. Consume 2 oz",
+    "facilitator": "Self-administered",
+    "location": "Specialized Facility",
+    "remote_capable": false,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Ketogenic meal",
+      "Low-glycemic meal",
+      "Mediterranean diet meal"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative food",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 24,
+    "priority": 32
+  },
+  {
+    "name": "Cycling",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice daily",
+    "details": "Session of 43 minutes. Maintain HR between 121-168 bpm",
+    "facilitator": "Exercise Physiologist",
+    "location": "Track Field",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, fill water bottle",
+    "backup_activities": [
+      "High-intensity interval training"
+    ],
+    "adjustments_if_skipped": "Add extra session later in week",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 43,
+    "priority": 33
+  },
+  {
+    "name": "Ice bath",
+    "type": "Therapy",
+    "frequency": "Every 6 months",
+    "details": "Session of 90 minutes",
+    "facilitator": "Naturopath",
+    "location": "Yoga Studio",
+    "remote_capable": true,
+    "prep_needed": "Hydrate before session",
+    "backup_activities": [
+      "Infrared therapy"
+    ],
+    "adjustments_if_skipped": "Extend next session",
+    "metrics": "Effectiveness, comfort level",
+    "duration_minutes": 90,
+    "priority": 34
+  },
+  {
+    "name": "Intermittent fasting",
+    "type": "Food consumption",
+    "frequency": "Every 6 months",
+    "details": "Session of 22 minutes. Consume 1 oz",
+    "facilitator": "Nutritionist",
+    "location": "Forest Trail",
+    "remote_capable": false,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Plant-based meal",
+      "Low-sodium meal"
+    ],
+    "adjustments_if_skipped": "Add extra nutrients in next meal",
+    "metrics": "Adherence, taste satisfaction",
+    "duration_minutes": 22,
+    "priority": 35
+  },
+  {
+    "name": "Zinc supplement",
+    "type": "Medication consumption",
+    "frequency": "Twice a week",
+    "details": "Session of 8 minutes. Take 1 capsule(s)",
+    "facilitator": "Nurse",
+    "location": "Track Field",
+    "remote_capable": false,
+    "prep_needed": "Set reminder",
+    "backup_activities": [
+      "Blood pressure medication"
+    ],
+    "adjustments_if_skipped": "Skip if next dose due within 12 hours",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 8,
+    "priority": 36
+  },
+  {
+    "name": "Blood pressure medication",
+    "type": "Medication consumption",
+    "frequency": "Every other day",
+    "details": "Session of 8 minutes. Take 2 tablet(s)",
+    "facilitator": "Nurse",
+    "location": "Health Food Store",
+    "remote_capable": false,
+    "prep_needed": "Set reminder",
+    "backup_activities": [
+      "Calcium supplement",
+      "Thyroid medication",
+      "Melatonin"
+    ],
+    "adjustments_if_skipped": "Consult doctor if consecutive doses missed",
+    "metrics": "Adherence, side effects",
+    "duration_minutes": 8,
+    "priority": 37
+  },
+  {
+    "name": "Physical therapist consultation",
+    "type": "Consultation",
+    "frequency": "Three times daily",
+    "details": "Session of 49 minutes",
+    "facilitator": "Dr. Jones (Dermatologist)",
+    "location": "Hospital",
+    "remote_capable": false,
+    "prep_needed": "Complete intake forms",
+    "backup_activities": [
+      "Endocrinologist consultation",
+      "Dentist checkup"
+    ],
+    "adjustments_if_skipped": "Prepare more thoroughly for next appointment",
+    "metrics": "Action items identified, insights gained",
+    "duration_minutes": 49,
+    "priority": 38
+  },
+  {
+    "name": "Personal trainer session",
+    "type": "Consultation",
+    "frequency": "Every 6 months",
+    "details": "Session of 48 minutes",
+    "facilitator": "Dr. Davis (Rheumatologist)",
+    "location": "Beach",
+    "remote_capable": true,
+    "prep_needed": "Complete intake forms",
+    "backup_activities": [
+      "Mental health counseling"
+    ],
+    "adjustments_if_skipped": "Reschedule ASAP",
+    "metrics": "Action items identified, recommendations",
+    "duration_minutes": 48,
+    "priority": 39
+  },
+  {
+    "name": "Iron supplement",
+    "type": "Medication consumption",
+    "frequency": "Twice a week",
+    "details": "Session of 5 minutes. Take 1 tablet(s)",
+    "facilitator": "Self-administered",
+    "location": "Swimming Pool",
+    "remote_capable": false,
+    "prep_needed": "Take with food if needed",
+    "backup_activities": [
+      "Magnesium supplement",
+      "Cholesterol medication",
+      "Pain reliever"
+    ],
+    "adjustments_if_skipped": "Adjust timing of other medications",
+    "metrics": "Adherence, effectiveness",
+    "duration_minutes": 5,
+    "priority": 40
+  },
+  {
+    "name": "Functional training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Three times a week",
+    "details": "Session of 30 minutes. Maintain HR between 117-162 bpm",
+    "facilitator": "Self-administered",
+    "location": "Mountain Trail",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, prepare equipment",
+    "backup_activities": [
+      "Cycling",
+      "Strength training"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative exercise",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 30,
+    "priority": 41
+  },
+  {
+    "name": "Functional training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Biweekly",
+    "details": "Session of 34 minutes. Maintain HR between 146-178 bpm",
+    "facilitator": "Exercise Physiologist",
+    "location": "Tennis Court",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Swimming"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative exercise",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 34,
+    "priority": 42
+  },
+  {
+    "name": "Tai Chi",
+    "type": "Fitness routine / exercise",
+    "frequency": "Weekly",
+    "details": "Session of 34 minutes. Maintain HR between 123-170 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Wellness Center",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Eye exercises",
+      "Strength training"
+    ],
+    "adjustments_if_skipped": "Increase intensity in next session",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 34,
+    "priority": 43
+  },
+  {
+    "name": "Vitamin B complex",
+    "type": "Medication consumption",
+    "frequency": "Biweekly",
+    "details": "Session of 10 minutes. Take 2 tablet(s)",
+    "facilitator": "Nurse",
+    "location": "Gym",
+    "remote_capable": true,
+    "prep_needed": "Check medication interactions",
+    "backup_activities": [
+      "Zinc supplement",
+      "Vitamin C",
+      "Cholesterol medication"
+    ],
+    "adjustments_if_skipped": "Take as soon as remembered if same day",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 10,
+    "priority": 44
+  },
+  {
+    "name": "Anti-inflammatory diet meal",
+    "type": "Food consumption",
+    "frequency": "Twice a week",
+    "details": "Session of 21 minutes. Consume 4 tablespoon(s)",
+    "facilitator": "Dietitian",
+    "location": "Tennis Court",
+    "remote_capable": false,
+    "prep_needed": "Prepare meal",
+    "backup_activities": [
+      "Intermittent fasting"
+    ],
+    "adjustments_if_skipped": "Double next dose",
+    "metrics": "Adherence, taste satisfaction",
+    "duration_minutes": 21,
+    "priority": 45
+  },
+  {
+    "name": "Mediterranean diet meal",
+    "type": "Food consumption",
+    "frequency": "Yearly",
+    "details": "Session of 29 minutes. Consume 4 capsule(s)",
+    "facilitator": "Self-administered",
+    "location": "Swimming Pool",
+    "remote_capable": true,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Ketogenic meal",
+      "High-fiber meal"
+    ],
+    "adjustments_if_skipped": "Double next dose",
+    "metrics": "Adherence, taste satisfaction",
+    "duration_minutes": 29,
+    "priority": 46
+  },
+  {
+    "name": "Vitamin B complex",
+    "type": "Medication consumption",
+    "frequency": "Yearly",
+    "details": "Session of 7 minutes. Take 1 capsule(s)",
+    "facilitator": "Nurse",
+    "location": "Beach",
+    "remote_capable": false,
+    "prep_needed": "Check medication interactions",
+    "backup_activities": [
+      "Magnesium supplement",
+      "Iron supplement",
+      "Blood pressure medication"
+    ],
+    "adjustments_if_skipped": "Take as soon as remembered if same day",
+    "metrics": "Adherence, effectiveness",
+    "duration_minutes": 7,
+    "priority": 47
+  },
+  {
+    "name": "Probiotics",
+    "type": "Food consumption",
+    "frequency": "Monthly",
+    "details": "Session of 30 minutes. Consume 4 tablespoon(s)",
+    "facilitator": "Nutritionist",
+    "location": "Beach",
+    "remote_capable": true,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Intermittent fasting",
+      "Omega-3 supplement"
+    ],
+    "adjustments_if_skipped": "Adjust timing of next meal",
+    "metrics": "Adherence, satiety",
+    "duration_minutes": 30,
+    "priority": 48
+  },
+  {
+    "name": "Intermittent fasting",
+    "type": "Food consumption",
+    "frequency": "Biweekly",
+    "details": "Session of 21 minutes. Consume 1 capsule(s)",
+    "facilitator": "Self-administered",
+    "location": "Mountain Trail",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Mediterranean diet meal",
+      "High-fiber meal",
+      "Calorie-restricted meal"
+    ],
+    "adjustments_if_skipped": "Double next dose",
+    "metrics": "Adherence, taste satisfaction",
+    "duration_minutes": 21,
+    "priority": 49
+  },
+  {
+    "name": "Massage therapy",
+    "type": "Therapy",
+    "frequency": "Twice a week",
+    "details": "Session of 30 minutes",
+    "facilitator": "Massage Therapist",
+    "location": "Physical Therapy Clinic",
+    "remote_capable": false,
+    "prep_needed": "Prepare comfortable clothes",
+    "backup_activities": [
+      "Hydrotherapy"
+    ],
+    "adjustments_if_skipped": "Do home exercises instead",
+    "metrics": "Effectiveness, recovery",
+    "duration_minutes": 30,
+    "priority": 50
+  },
+  {
+    "name": "Cognitive behavioral therapy",
+    "type": "Therapy",
+    "frequency": "Twice daily",
+    "details": "Session of 58 minutes",
+    "facilitator": "Physiotherapist",
+    "location": "Specialized Facility",
+    "remote_capable": false,
+    "prep_needed": "Hydrate before session",
+    "backup_activities": [
+      "Physical therapy"
+    ],
+    "adjustments_if_skipped": "Extend next session",
+    "metrics": "Effectiveness, relaxation",
+    "duration_minutes": 58,
+    "priority": 51
+  },
+  {
+    "name": "Vitamin B complex",
+    "type": "Medication consumption",
+    "frequency": "Every 6 months",
+    "details": "Session of 7 minutes. Take 2 pill(s)",
+    "facilitator": "Nurse",
+    "location": "Mountain Trail",
+    "remote_capable": false,
+    "prep_needed": "Take with food if needed",
+    "backup_activities": [
+      "Blood pressure medication",
+      "Anti-inflammatory medication"
+    ],
+    "adjustments_if_skipped": "Adjust timing of other medications",
+    "metrics": "Adherence, side effects",
+    "duration_minutes": 7,
+    "priority": 52
+  },
+  {
+    "name": "Physical therapy",
+    "type": "Therapy",
+    "frequency": "Every 3 months",
+    "details": "Session of 71 minutes",
+    "facilitator": "Massage Therapist",
+    "location": "Tennis Court",
+    "remote_capable": false,
+    "prep_needed": "Hydrate before session",
+    "backup_activities": [
+      "Float tank session"
+    ],
+    "adjustments_if_skipped": "Extend next session",
+    "metrics": "Effectiveness, recovery",
+    "duration_minutes": 71,
+    "priority": 53
+  },
+  {
+    "name": "Pilates",
+    "type": "Fitness routine / exercise",
+    "frequency": "Every 3 months",
+    "details": "Session of 41 minutes. Maintain HR between 128-165 bpm",
+    "facilitator": "Exercise Physiologist",
+    "location": "Forest Trail",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Balance training",
+      "Swimming",
+      "Resistance band exercises"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative exercise",
+    "metrics": "Heart rate, duration, repetitions",
+    "duration_minutes": 41,
+    "priority": 54
+  },
+  {
+    "name": "Pilates",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice daily",
+    "details": "Session of 34 minutes. Maintain HR between 142-175 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Park",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Circuit training",
+      "Yoga",
+      "Walking"
+    ],
+    "adjustments_if_skipped": "Extend next session by 15 minutes",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 34,
+    "priority": 55
+  },
+  {
+    "name": "Vitamin D",
+    "type": "Food consumption",
+    "frequency": "Weekly",
+    "details": "Session of 28 minutes. Consume 4 capsule(s)",
+    "facilitator": "Self-administered",
+    "location": "Mountain Trail",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Anti-inflammatory diet meal",
+      "Antioxidant-rich meal"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative food",
+    "metrics": "Adherence, satiety",
+    "duration_minutes": 28,
+    "priority": 56
+  },
+  {
+    "name": "Infrared therapy",
+    "type": "Therapy",
+    "frequency": "Twice a week",
+    "details": "Session of 40 minutes",
+    "facilitator": "Mental Health Counselor",
+    "location": "Office",
+    "remote_capable": true,
+    "prep_needed": "Prepare comfortable clothes",
+    "backup_activities": [
+      "Ice bath",
+      "Cryotherapy"
+    ],
+    "adjustments_if_skipped": "Use self-therapy techniques",
+    "metrics": "Effectiveness, recovery",
+    "duration_minutes": 40,
+    "priority": 57
+  },
+  {
+    "name": "Yoga",
+    "type": "Fitness routine / exercise",
+    "frequency": "Daily",
+    "details": "Session of 52 minutes. Maintain HR between 150-161 bpm",
+    "facilitator": "Self-administered",
+    "location": "Office",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Tai Chi",
+      "Eye exercises",
+      "Flexibility training"
+    ],
+    "adjustments_if_skipped": "Add extra session later in week",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 52,
+    "priority": 58
+  },
+  {
+    "name": "Running",
+    "type": "Fitness routine / exercise",
+    "frequency": "Daily",
+    "details": "Session of 43 minutes. Maintain HR between 141-175 bpm",
+    "facilitator": "Self-administered",
+    "location": "Swimming Pool",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, prepare equipment",
+    "backup_activities": [
+      "Cardio workout"
+    ],
+    "adjustments_if_skipped": "Extend next session by 15 minutes",
+    "metrics": "Heart rate, duration, sets",
+    "duration_minutes": 43,
+    "priority": 59
+  },
+  {
+    "name": "Strength training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Three times a week",
+    "details": "Session of 58 minutes. Maintain HR between 132-166 bpm",
+    "facilitator": "Self-administered",
+    "location": "Mountain Trail",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Running",
+      "Tai Chi",
+      "Circuit training"
+    ],
+    "adjustments_if_skipped": "Add extra session later in week",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 58,
+    "priority": 60
+  },
+  {
+    "name": "Circuit training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Every 6 months",
+    "details": "Session of 41 minutes. Maintain HR between 129-167 bpm",
+    "facilitator": "Self-administered",
+    "location": "Yoga Studio",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, prepare equipment",
+    "backup_activities": [
+      "Tai Chi",
+      "Yoga"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative exercise",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 41,
+    "priority": 61
+  },
+  {
+    "name": "Antioxidant-rich meal",
+    "type": "Food consumption",
+    "frequency": "Every other day",
+    "details": "Session of 25 minutes. Consume 3 serving(s)",
+    "facilitator": "Nutritionist",
+    "location": "Community Center",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Vitamin D",
+      "Omega-3 supplement",
+      "Mediterranean diet meal"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative food",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 25,
+    "priority": 62
+  },
+  {
+    "name": "Low-glycemic meal",
+    "type": "Food consumption",
+    "frequency": "Yearly",
+    "details": "Session of 17 minutes. Consume 3 tablespoon(s)",
+    "facilitator": "Self-administered",
+    "location": "Health Food Store",
+    "remote_capable": false,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Mediterranean diet meal",
+      "Anti-inflammatory diet meal",
+      "Calorie-restricted meal"
+    ],
+    "adjustments_if_skipped": "Adjust timing of next meal",
+    "metrics": "Adherence, energy levels",
+    "duration_minutes": 17,
+    "priority": 63
+  },
+  {
+    "name": "Mediterranean diet meal",
+    "type": "Food consumption",
+    "frequency": "Biweekly",
+    "details": "Session of 29 minutes. Consume 3 capsule(s)",
+    "facilitator": "Nutritionist",
+    "location": "Wellness Center",
+    "remote_capable": true,
+    "prep_needed": "Prepare meal",
+    "backup_activities": [
+      "Intermittent fasting",
+      "Omega-3 supplement"
+    ],
+    "adjustments_if_skipped": "Adjust timing of next meal",
+    "metrics": "Adherence, satiety",
+    "duration_minutes": 29,
+    "priority": 64
+  },
+  {
+    "name": "Sleep aid",
+    "type": "Medication consumption",
+    "frequency": "Twice a week",
+    "details": "Session of 9 minutes. Take 1 pill(s)",
+    "facilitator": "Medical Doctor",
+    "location": "Medical Clinic",
+    "remote_capable": true,
+    "prep_needed": "Refill prescription",
+    "backup_activities": [
+      "Thyroid medication"
+    ],
+    "adjustments_if_skipped": "Skip if next dose due within 12 hours",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 9,
+    "priority": 65
+  },
+  {
+    "name": "Stress management counseling",
+    "type": "Consultation",
+    "frequency": "Monthly",
+    "details": "Session of 38 minutes",
+    "facilitator": "Dr. Wilson (Orthopedist)",
+    "location": "Mountain Trail",
+    "remote_capable": true,
+    "prep_needed": "Gather medical records",
+    "backup_activities": [
+      "Endocrinologist consultation",
+      "Cardiologist checkup",
+      "Sleep specialist consultation"
+    ],
+    "adjustments_if_skipped": "Consider telehealth option",
+    "metrics": "Action items identified, progress assessment",
+    "duration_minutes": 38,
+    "priority": 66
+  },
+  {
+    "name": "Pain reliever",
+    "type": "Medication consumption",
+    "frequency": "Monthly",
+    "details": "Session of 7 minutes. Take 2 dose(s)",
+    "facilitator": "Self-administered",
+    "location": "Gym",
+    "remote_capable": true,
+    "prep_needed": "Take with food if needed",
+    "backup_activities": [
+      "Zinc supplement"
+    ],
+    "adjustments_if_skipped": "Skip if next dose due within 12 hours",
+    "metrics": "Adherence, effectiveness",
+    "duration_minutes": 7,
+    "priority": 67
+  },
+  {
+    "name": "Calcium supplement",
+    "type": "Medication consumption",
+    "frequency": "Twice daily",
+    "details": "Session of 8 minutes. Take 1 capsule(s)",
+    "facilitator": "Nurse",
+    "location": "Beach",
+    "remote_capable": false,
+    "prep_needed": "Check medication interactions",
+    "backup_activities": [
+      "Zinc supplement",
+      "Antihistamine"
+    ],
+    "adjustments_if_skipped": "Take as soon as remembered if same day",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 8,
+    "priority": 68
+  },
+  {
+    "name": "Heat therapy",
+    "type": "Therapy",
+    "frequency": "Every other day",
+    "details": "Session of 54 minutes",
+    "facilitator": "Naturopath",
+    "location": "Community Center",
+    "remote_capable": false,
+    "prep_needed": "Book appointment",
+    "backup_activities": [
+      "Acupuncture",
+      "Float tank session",
+      "Infrared therapy"
+    ],
+    "adjustments_if_skipped": "Use self-therapy techniques",
+    "metrics": "Effectiveness, comfort level",
+    "duration_minutes": 54,
+    "priority": 69
+  },
+  {
+    "name": "Bodyweight exercises",
+    "type": "Fitness routine / exercise",
+    "frequency": "Three times daily",
+    "details": "Session of 59 minutes. Maintain HR between 143-165 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Medical Clinic",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Pilates",
+      "Core strengthening",
+      "Strength training"
+    ],
+    "adjustments_if_skipped": "Increase intensity in next session",
+    "metrics": "Heart rate, duration, calorie burn",
+    "duration_minutes": 59,
+    "priority": 70
+  },
+  {
+    "name": "Balance training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice a week",
+    "details": "Session of 36 minutes. Maintain HR between 141-172 bpm",
+    "facilitator": "Exercise Physiologist",
+    "location": "Park",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Tai Chi",
+      "Circuit training",
+      "Resistance band exercises"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative exercise",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 36,
+    "priority": 71
+  },
+  {
+    "name": "Balance training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Every other day",
+    "details": "Session of 45 minutes. Maintain HR between 111-163 bpm",
+    "facilitator": "Yoga Instructor",
+    "location": "Gym",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Yoga",
+      "Functional training",
+      "Core strengthening"
+    ],
+    "adjustments_if_skipped": "Increase intensity in next session",
+    "metrics": "Heart rate, duration, repetitions",
+    "duration_minutes": 45,
+    "priority": 72
+  },
+  {
+    "name": "Nutritionist consultation",
+    "type": "Consultation",
+    "frequency": "Daily",
+    "details": "Session of 41 minutes",
+    "facilitator": "Dr. Wilson (Orthopedist)",
+    "location": "Swimming Pool",
+    "remote_capable": false,
+    "prep_needed": "Fast if required for tests",
+    "backup_activities": [
+      "Blood test analysis"
+    ],
+    "adjustments_if_skipped": "Reschedule ASAP",
+    "metrics": "Action items identified, test results",
+    "duration_minutes": 41,
+    "priority": 73
+  },
+  {
+    "name": "Calorie-restricted meal",
+    "type": "Food consumption",
+    "frequency": "Twice daily",
+    "details": "Session of 29 minutes. Consume 2 serving(s)",
+    "facilitator": "Dietitian",
+    "location": "Tennis Court",
+    "remote_capable": true,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Probiotics",
+      "Protein shake consumption"
+    ],
+    "adjustments_if_skipped": "Add extra nutrients in next meal",
+    "metrics": "Adherence, energy levels",
+    "duration_minutes": 29,
+    "priority": 74
+  },
+  {
+    "name": "Medical doctor checkup",
+    "type": "Consultation",
+    "frequency": "Twice daily",
+    "details": "Session of 51 minutes",
+    "facilitator": "James Jackson (Exercise Physiologist)",
+    "location": "Medical Clinic",
+    "remote_capable": true,
+    "prep_needed": "Complete intake forms",
+    "backup_activities": [
+      "Personal trainer session",
+      "Stress management counseling"
+    ],
+    "adjustments_if_skipped": "Consider telehealth option",
+    "metrics": "Action items identified, insights gained",
+    "duration_minutes": 51,
+    "priority": 75
+  },
+  {
+    "name": "Mediterranean diet meal",
+    "type": "Food consumption",
+    "frequency": "Twice a week",
+    "details": "Session of 28 minutes. Consume 3 tablespoon(s)",
+    "facilitator": "Nutritionist",
+    "location": "Track Field",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Plant-based meal",
+      "Calorie-restricted meal"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative food",
+    "metrics": "Adherence, energy levels",
+    "duration_minutes": 28,
+    "priority": 76
+  },
+  {
+    "name": "Yoga",
+    "type": "Fitness routine / exercise",
+    "frequency": "Every other day",
+    "details": "Session of 43 minutes. Maintain HR between 147-178 bpm",
+    "facilitator": "Yoga Instructor",
+    "location": "Office",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, prepare equipment",
+    "backup_activities": [
+      "Cardio workout",
+      "Running"
+    ],
+    "adjustments_if_skipped": "Extend next session by 15 minutes",
+    "metrics": "Heart rate, duration, repetitions",
+    "duration_minutes": 43,
+    "priority": 77
+  },
+  {
+    "name": "Wellness coach session",
+    "type": "Consultation",
+    "frequency": "Yearly",
+    "details": "Session of 44 minutes",
+    "facilitator": "Olivia Thomas (Mental Health Counselor)",
+    "location": "Wellness Center",
+    "remote_capable": false,
+    "prep_needed": "Complete intake forms",
+    "backup_activities": [
+      "Physical therapist consultation",
+      "Endocrinologist consultation"
+    ],
+    "adjustments_if_skipped": "Request summary of missed information",
+    "metrics": "Action items identified, progress assessment",
+    "duration_minutes": 44,
+    "priority": 78
+  },
+  {
+    "name": "Antihistamine",
+    "type": "Medication consumption",
+    "frequency": "Every 6 months",
+    "details": "Session of 10 minutes. Take 1 tablet(s)",
+    "facilitator": "Medical Doctor",
+    "location": "Park",
+    "remote_capable": false,
+    "prep_needed": "Refill prescription",
+    "backup_activities": [
+      "Cholesterol medication"
+    ],
+    "adjustments_if_skipped": "Skip if next dose due within 12 hours",
+    "metrics": "Adherence, symptom reduction",
+    "duration_minutes": 10,
+    "priority": 79
+  },
+  {
+    "name": "Antioxidant-rich meal",
+    "type": "Food consumption",
+    "frequency": "Every 6 months",
+    "details": "Session of 16 minutes. Consume 1 tablespoon(s)",
+    "facilitator": "Self-administered",
+    "location": "Beach",
+    "remote_capable": true,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Plant-based meal"
+    ],
+    "adjustments_if_skipped": "Add extra nutrients in next meal",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 16,
+    "priority": 80
+  },
+  {
+    "name": "Protein shake consumption",
+    "type": "Food consumption",
+    "frequency": "Three times a week",
+    "details": "Session of 30 minutes. Consume 3 capsule(s)",
+    "facilitator": "Dietitian",
+    "location": "Hospital",
+    "remote_capable": false,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Plant-based meal",
+      "Low-sodium meal"
+    ],
+    "adjustments_if_skipped": "Double next dose",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 30,
+    "priority": 81
+  },
+  {
+    "name": "Cardio workout",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice a week",
+    "details": "Session of 30 minutes. Maintain HR between 121-170 bpm",
+    "facilitator": "Exercise Physiologist",
+    "location": "Swimming Pool",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Strength training",
+      "Bodyweight exercises"
+    ],
+    "adjustments_if_skipped": "Add extra session later in week",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 30,
+    "priority": 82
+  },
+  {
+    "name": "Antihistamine",
+    "type": "Medication consumption",
+    "frequency": "Every 3 months",
+    "details": "Session of 9 minutes. Take 2 pill(s)",
+    "facilitator": "Nurse",
+    "location": "Beach",
+    "remote_capable": true,
+    "prep_needed": "Take with food if needed",
+    "backup_activities": [
+      "Calcium supplement",
+      "Magnesium supplement"
+    ],
+    "adjustments_if_skipped": "Consult doctor if consecutive doses missed",
+    "metrics": "Adherence, blood markers",
+    "duration_minutes": 9,
+    "priority": 83
+  },
+  {
+    "name": "Functional training",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice a week",
+    "details": "Session of 54 minutes. Maintain HR between 118-164 bpm",
+    "facilitator": "Exercise Physiologist",
+    "location": "Forest Trail",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, prepare equipment",
+    "backup_activities": [
+      "Walking"
+    ],
+    "adjustments_if_skipped": "Extend next session by 15 minutes",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 54,
+    "priority": 84
+  },
+  {
+    "name": "Core strengthening",
+    "type": "Fitness routine / exercise",
+    "frequency": "Yearly",
+    "details": "Session of 32 minutes. Maintain HR between 145-169 bpm",
+    "facilitator": "Yoga Instructor",
+    "location": "Medical Clinic",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, charge fitness tracker",
+    "backup_activities": [
+      "Pilates",
+      "Eye exercises",
+      "Strength training"
+    ],
+    "adjustments_if_skipped": "Increase intensity in next session",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 32,
+    "priority": 85
+  },
+  {
+    "name": "Infrared therapy",
+    "type": "Therapy",
+    "frequency": "Weekly",
+    "details": "Session of 81 minutes",
+    "facilitator": "Mental Health Counselor",
+    "location": "Home",
+    "remote_capable": false,
+    "prep_needed": "Hydrate before session",
+    "backup_activities": [
+      "Ice bath",
+      "Cognitive behavioral therapy",
+      "Acupuncture"
+    ],
+    "adjustments_if_skipped": "Use self-therapy techniques",
+    "metrics": "Effectiveness, comfort level",
+    "duration_minutes": 81,
+    "priority": 86
+  },
+  {
+    "name": "Cardiologist checkup",
+    "type": "Consultation",
+    "frequency": "Three times a week",
+    "details": "Session of 32 minutes",
+    "facilitator": "James Jackson (Exercise Physiologist)",
+    "location": "Forest Trail",
+    "remote_capable": true,
+    "prep_needed": "Gather medical records",
+    "backup_activities": [
+      "Ophthalmologist checkup",
+      "Blood test analysis"
+    ],
+    "adjustments_if_skipped": "Request summary of missed information",
+    "metrics": "Action items identified, progress assessment",
+    "duration_minutes": 32,
+    "priority": 87
+  },
+  {
+    "name": "Bodyweight exercises",
+    "type": "Fitness routine / exercise",
+    "frequency": "Every 6 months",
+    "details": "Session of 38 minutes. Maintain HR between 145-160 bpm",
+    "facilitator": "Personal Trainer",
+    "location": "Office",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Cardio workout",
+      "Running"
+    ],
+    "adjustments_if_skipped": "Increase intensity in next session",
+    "metrics": "Heart rate, duration, repetitions",
+    "duration_minutes": 38,
+    "priority": 88
+  },
+  {
+    "name": "High-fiber meal",
+    "type": "Food consumption",
+    "frequency": "Twice daily",
+    "details": "Session of 29 minutes. Consume 3 tablespoon(s)",
+    "facilitator": "Dietitian",
+    "location": "Yoga Studio",
+    "remote_capable": false,
+    "prep_needed": "Purchase supplements",
+    "backup_activities": [
+      "Low-sodium meal"
+    ],
+    "adjustments_if_skipped": "Adjust timing of next meal",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 29,
+    "priority": 89
+  },
+  {
+    "name": "Cognitive behavioral therapy",
+    "type": "Therapy",
+    "frequency": "Monthly",
+    "details": "Session of 37 minutes",
+    "facilitator": "Massage Therapist",
+    "location": "Park",
+    "remote_capable": false,
+    "prep_needed": "Complete pre-session questionnaire",
+    "backup_activities": [
+      "Acupuncture",
+      "Hydrotherapy"
+    ],
+    "adjustments_if_skipped": "Extend next session",
+    "metrics": "Effectiveness, pain reduction",
+    "duration_minutes": 37,
+    "priority": 90
+  },
+  {
+    "name": "Melatonin",
+    "type": "Medication consumption",
+    "frequency": "Biweekly",
+    "details": "Session of 5 minutes. Take 2 pill(s)",
+    "facilitator": "Self-administered",
+    "location": "Swimming Pool",
+    "remote_capable": false,
+    "prep_needed": "Take with food if needed",
+    "backup_activities": [
+      "Blood pressure medication"
+    ],
+    "adjustments_if_skipped": "Take as soon as remembered if same day",
+    "metrics": "Adherence, side effects",
+    "duration_minutes": 5,
+    "priority": 91
+  },
+  {
+    "name": "Eye exercises",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice a week",
+    "details": "Session of 43 minutes. Maintain HR between 145-175 bpm",
+    "facilitator": "Self-administered",
+    "location": "Yoga Studio",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, fill water bottle",
+    "backup_activities": [
+      "Strength training",
+      "Flexibility training",
+      "High-intensity interval training"
+    ],
+    "adjustments_if_skipped": "Extend next session by 15 minutes",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 43,
+    "priority": 92
+  },
+  {
+    "name": "Swimming",
+    "type": "Fitness routine / exercise",
+    "frequency": "Twice a week",
+    "details": "Session of 58 minutes. Maintain HR between 116-177 bpm",
+    "facilitator": "Self-administered",
+    "location": "Yoga Studio",
+    "remote_capable": false,
+    "prep_needed": "Prepare exercise clothes, warm up",
+    "backup_activities": [
+      "Eye exercises"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative exercise",
+    "metrics": "Heart rate, duration, repetitions",
+    "duration_minutes": 58,
+    "priority": 93
+  },
+  {
+    "name": "Swimming",
+    "type": "Fitness routine / exercise",
+    "frequency": "Yearly",
+    "details": "Session of 30 minutes. Maintain HR between 127-167 bpm",
+    "facilitator": "Self-administered",
+    "location": "Wellness Center",
+    "remote_capable": true,
+    "prep_needed": "Prepare exercise clothes, fill water bottle",
+    "backup_activities": [
+      "Circuit training",
+      "Strength training",
+      "High-intensity interval training"
+    ],
+    "adjustments_if_skipped": "Add extra session later in week",
+    "metrics": "Heart rate, duration, perceived effort",
+    "duration_minutes": 30,
+    "priority": 94
+  },
+  {
+    "name": "Ketogenic meal",
+    "type": "Food consumption",
+    "frequency": "Every 3 months",
+    "details": "Session of 21 minutes. Consume 4 tablespoon(s)",
+    "facilitator": "Dietitian",
+    "location": "Wellness Center",
+    "remote_capable": true,
+    "prep_needed": "Prepare meal",
+    "backup_activities": [
+      "Omega-3 supplement",
+      "Plant-based meal"
+    ],
+    "adjustments_if_skipped": "Substitute with alternative food",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 21,
+    "priority": 95
+  },
+  {
+    "name": "Anti-inflammatory diet meal",
+    "type": "Food consumption",
+    "frequency": "Every other day",
+    "details": "Session of 22 minutes. Consume 1 serving(s)",
+    "facilitator": "Nutritionist",
+    "location": "Home",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Probiotics"
+    ],
+    "adjustments_if_skipped": "Double next dose",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 22,
+    "priority": 96
+  },
+  {
+    "name": "Intermittent fasting",
+    "type": "Food consumption",
+    "frequency": "Weekly",
+    "details": "Session of 29 minutes. Consume 4 serving(s)",
+    "facilitator": "Nutritionist",
+    "location": "Home",
+    "remote_capable": false,
+    "prep_needed": "Stock ingredients",
+    "backup_activities": [
+      "Protein shake consumption",
+      "Anti-inflammatory diet meal"
+    ],
+    "adjustments_if_skipped": "Add extra nutrients in next meal",
+    "metrics": "Adherence, taste satisfaction",
+    "duration_minutes": 29,
+    "priority": 97
+  },
+  {
+    "name": "Ophthalmologist checkup",
+    "type": "Consultation",
+    "frequency": "Weekly",
+    "details": "Session of 31 minutes",
+    "facilitator": "Emma White (Physiotherapist)",
+    "location": "Specialized Facility",
+    "remote_capable": false,
+    "prep_needed": "Complete intake forms",
+    "backup_activities": [
+      "Nutritionist consultation",
+      "Sleep specialist consultation",
+      "Endocrinologist consultation"
+    ],
+    "adjustments_if_skipped": "Request summary of missed information",
+    "metrics": "Action items identified, insights gained",
+    "duration_minutes": 31,
+    "priority": 98
+  },
+  {
+    "name": "Massage therapy",
+    "type": "Therapy",
+    "frequency": "Monthly",
+    "details": "Session of 84 minutes",
+    "facilitator": "Physiotherapist",
+    "location": "Hospital",
+    "remote_capable": true,
+    "prep_needed": "Book appointment",
+    "backup_activities": [
+      "Hydrotherapy"
+    ],
+    "adjustments_if_skipped": "Extend next session",
+    "metrics": "Effectiveness, pain reduction",
+    "duration_minutes": 84,
+    "priority": 99
+  },
+  {
+    "name": "Calorie-restricted meal",
+    "type": "Food consumption",
+    "frequency": "Daily",
+    "details": "Session of 22 minutes. Consume 3 capsule(s)",
+    "facilitator": "Nutritionist",
+    "location": "Gym",
+    "remote_capable": true,
+    "prep_needed": "Organize meal prep",
+    "backup_activities": [
+      "Ketogenic meal",
+      "Omega-3 supplement"
+    ],
+    "adjustments_if_skipped": "Add extra nutrients in next meal",
+    "metrics": "Adherence, digestive response",
+    "duration_minutes": 22,
+    "priority": 100
+  }
+]
